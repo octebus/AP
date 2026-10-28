@@ -1,3 +1,10 @@
+# Caleb Cristobal
+# 28th October 2026
+# Version 1.0
+
+# Creating a program to calculate perimeter and cost
+# based on user's inputs
+
 # Ask user for width and loop until they 
 # enter a number that is more than zero
 def num_check(question):
